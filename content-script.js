@@ -9,7 +9,7 @@ const ELEMS = [
     "#header.ytd-multi-page-menu-renderer.style-scope",
     "#contents.ytd-section-list-renderer.style-scope",
     "#contentContainer.tp-yt-app-header.style-scope",
-    "#page-manager > ytd-browse:nth-child(3) > ytd-two-column-browse-results-renderer #contents.ytd-rich-grid-renderer"
+    "#page-manager > ytd-browse > ytd-two-column-browse-results-renderer"
 ];
 
 function main() {
