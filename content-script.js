@@ -1,11 +1,15 @@
 const ELEMS = [
     "#contents.style-scope.ytd-rich-grid-renderer",
     "#items",
-    "#secondary",
+    "#secondary.ytd-watch-flexy.style-scope",
     "#video-preview > ytd-video-preview-loader > div > ytd-video-preview > div",
     "#guide-wrapper",
     "#container.style-scope.ytd-masthead",
     "#below",
+    "#header.ytd-multi-page-menu-renderer.style-scope",
+    "#contents.ytd-section-list-renderer.style-scope",
+    "#contentContainer.tp-yt-app-header.style-scope",
+    "#page-manager > ytd-browse:nth-child(3) > ytd-two-column-browse-results-renderer #contents.ytd-rich-grid-renderer"
 ];
 
 function main() {
