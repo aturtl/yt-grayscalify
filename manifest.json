@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Grayscalify",
+  "version": "1.0.0",
+  "description": "Grayscales everything on YouTube EXCEPT video content.",
+  "icons": {
+  },
+  "content_scripts": [
+    {
+        "js": [
+            "content-script.js"
+        ],
+        "matches": [
+            "https://www.youtube.com/*"
+        ]
+    }
+  ]
+}
