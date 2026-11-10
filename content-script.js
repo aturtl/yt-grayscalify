@@ -1,11 +1,11 @@
 const ELEMS = [
-    "#contents",
+    "#contents.style-scope.ytd-rich-grid-renderer",
     "#items",
     "#secondary",
-    "#columns",
     "#video-preview > ytd-video-preview-loader > div > ytd-video-preview > div",
     "#guide-wrapper",
-    "#container"
+    "#container.style-scope.ytd-masthead",
+    "#below",
 ];
 
 function main() {
